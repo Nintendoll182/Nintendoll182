@@ -14,7 +14,6 @@ I'm a passionate developer and digital creator exploring coding, game developmen
 
 ### 📫 How to reach me
 - GitHub: [Nintendoll182](https://github.com/Nintendoll182)
-- Twitter / X: [@YourHandle](https://twitter.com/YourHandle) *(optional)*
 
 ### ⚡ Fun Facts
 - 😄 Pronouns: she/they
